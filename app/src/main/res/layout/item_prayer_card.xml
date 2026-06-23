@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingStart="2dp"
+    android:paddingEnd="2dp">
+
+    <TextView
+        android:id="@+id/tvPrayerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/fajr"
+        style="@style/TextCaption" />
+
+    <ImageView
+        android:id="@+id/ivPrayerIcon"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:src="@drawable/ic_moon"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/tvPrayerTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="04:05"
+        style="@style/TextBody"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/tvPrayerMeridiem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AM"
+        style="@style/TextCaption" />
+
+</LinearLayout>

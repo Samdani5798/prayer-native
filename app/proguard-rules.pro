@@ -1,0 +1,3 @@
+-keep class com.realislamic.prayertimes.data.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*

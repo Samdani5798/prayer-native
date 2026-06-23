@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#1A1D1B</color>
+    <color name="surface">#1A1D1B</color>
+    <color name="surface_elevated">#22261F</color>
+    <color name="accent_green">#4CAF7D</color>
+    <color name="accent_green_dark">#3A8A60</color>
+    <color name="accent_green_light">#6FBF95</color>
+    <color name="dome_liquid_top">#F0B93D</color>
+    <color name="dome_liquid_bottom">#C97E1F</color>
+    <color name="dome_shell">#22261F</color>
+    <color name="dome_shell_shadow">#0F1110</color>
+    <color name="text_primary">#F0EEE9</color>
+    <color name="text_secondary">#A8A399</color>
+    <color name="text_on_accent">#FFFFFF</color>
+    <color name="shadow_light">#262B23</color>
+    <color name="shadow_dark">#0E100D</color>
+    <color name="card_background">#22261F</color>
+    <color name="chip_active_bg">#4CAF7D</color>
+    <color name="chip_inactive_bg">#22261F</color>
+    <color name="divider">#33372E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="error">#E57368</color>
+    <color name="success">#4CAF7D</color>
+</resources>
